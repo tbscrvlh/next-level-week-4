@@ -1,6 +1,6 @@
-import { ExperienceBar } from "./components/styles/ExperienceBar";
+import { ExperienceBar } from "./components/ExperienceBar";
 
-import "./styles/global.css"
+import "./styles/global.css";
 
 function App() {
   return (
